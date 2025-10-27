@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+donateorganenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Django database and logs
+*.sqlite3
+db.sqlite3
+*.log
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Media files (optional)
+media/
